@@ -1,6 +1,6 @@
 # Awareness
 
-The official implementation of the awareness model.
+The official implementation of the Awareness model.
 
 ## Installing the conda environment
 
