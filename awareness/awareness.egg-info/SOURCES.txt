@@ -1,8 +1,0 @@
-setup.py
-awareness/__init__.py
-awareness/awareness.py
-awareness.egg-info/PKG-INFO
-awareness.egg-info/SOURCES.txt
-awareness.egg-info/dependency_links.txt
-awareness.egg-info/requires.txt
-awareness.egg-info/top_level.txt
