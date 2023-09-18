@@ -1,0 +1,11 @@
+*.pt
+*.egg
+*.egg-info
+
+.ipynb_checkpoints/
+checkpoints/
+__pycache__/
+build/
+datasets/
+*.egg/
+*.egg-info/
