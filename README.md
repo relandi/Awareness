@@ -1,6 +1,6 @@
 # Awareness
 
-The official implementation of the Awareness model.
+The official implementation of the Awareness model, as in the paper [CognitiveNet: Enriching Foundation Models with Emotions and Awareness](https://doi.org/10.1007/978-3-031-35681-0_7).
 
 ## Installing the conda environment
 
